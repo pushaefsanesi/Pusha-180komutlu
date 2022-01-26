@@ -1,0 +1,108 @@
+{
+  "tag": "✰",
+  "ikinciTag": "•",
+  
+  "erkekRolleri": ["",""],
+  "kizRolleri": ["",""],
+  "yetkiRolleri": ["","","","",""],
+  
+  "staffs": [""],
+  "teyitciRolleri": [""],
+  "warnHammer": [""],
+  "banHammer": [""],
+  "jailHammer": [""],
+  "VipHammer": [""],
+  "cmuteHammer": [""],
+  "vmuteHammer": [""],
+  
+  "rolverici": ["","","",""],
+  "sahipRolu": ["","","",""],
+
+
+  "jailRole": [""], 
+  "chatMute": [""],
+  "voiceMute": [""],
+  "fakeAccRole":"",
+  "reklamRole": [""], 
+  "yasaklıtagRole": [""],
+
+  "ekipRolu": [""],
+  "unregRoles": [""],
+  "boosterRolu": "",
+  "vipRole": [""],
+  
+  "uyariRole": "",
+  "katildiRole": "",
+  "mazaretliRole": "",
+  "enAltYetkiliRole": "",
+
+  "dcuye": "",
+  "dccezalı": "",
+  "dcyönetici": "",
+  
+  "vkuye": "",
+  "vkcezalı": "",
+  "vkyönetici": "",
+
+ "musician": "",
+ "terapist": "",
+ "soruncozucu": "",
+
+
+ "streamer": "",
+ "StreamerCezalı": "",
+ "StreamerSorumlusu": "",
+
+
+  "cekilis": "",
+  "etkinlik": "",
+  "ecrolalmakanal": "",
+
+  "lgbt": "",
+  "sevgilimvar": "",
+  "sevgilimyok": "",
+  "sevgiliyapmiyorum": "",
+  "iliskirolalmakanal": "",
+
+"ChatMsgListID": "",
+"VoiceMsgListID": "",
+"ChatLeaderBoard": "",
+"VoiceLeaderBoard": "",
+
+  "botses": "",
+  "rankLog": "",
+  "kurallar": "",
+  "yetkiLog": "",
+  "komutLog" : "", 
+  "marketLog": "",
+
+  "cezapuanlog": "",
+  "chatChannel": "",
+  "teyitKanali": "",
+  
+  "transportlog" : "",
+  "rollogchannel": "",
+  "invLogChannel": "",
+  "banLogChannel": "",
+  "jailLogChannel": "",
+  "warnLogChannel": "",
+  "ekipLogChannel": "",
+  "reklamLogChannel": "",
+  "yasaklıTagLogChannel": "",
+
+  "cmuteLogChannel": "",
+  "vmuteLogChannel": "",
+  "voiceLogChannel": "",
+
+  "messageLogChannel": "",
+  "toplantiSesChannel": "",
+  "mazaretliLogChannel": "",
+
+  "publicParents": [""],
+  "registerParents": [""],
+  "solvingParents": [""],
+  "privateParents": [""],
+  "aloneParents": [ ""],
+  "funParents": [""]
+}
+  
